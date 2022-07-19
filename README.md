@@ -1,2 +1,6 @@
 # testing
+<<<<<<< HEAD
+testing repo sravani..... in branch1....
+=======
 testing repo sravani.....
+>>>>>>> 469ea2374e71cf34eb4b1ed368af2dda31d73f55
